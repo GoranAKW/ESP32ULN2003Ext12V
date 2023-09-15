@@ -6,4 +6,4 @@ Repository for a ESP32 proyect with 28ybj-48 motors with external drivers ULN200
 
 ![My Image](ESP32ULN2003Ext12VBack.png)
 
-![My Image](ESP32ULN2003Ext12V/blob/main/ESP32ULN2003Ext12V.pdf)
+![My Image](ESP32ULN2003Ext12V.pdf)
